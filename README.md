@@ -1,2 +1,2 @@
-# bengali_political_speech_emotion_classification
-A repository for Bengali political speech dual emotion classification with dataset collection pipeline and model building
+# Code-Mixed Bengali-English Textual Speech Analysis with Dual Emotion Classification_A linguistic typological approach
+A repository for dual emotion classification on code-mixed bengali-english speech data with dataset collection pipeline and model building
